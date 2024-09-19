@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins:100,200,300,400,500,600,700,800,900');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
+.header {
+    text-align: center;
+    padding: 28rem;
+    color: white;
+}
+
+.aboutus {
+    background: #191919;
+    color: #fff;
+    height: auto;
+    width: auto;
+    text-align: center;
+}
+
+.footer {
+    bottom: 0;
+    text-align: center;
+    background: #191920;
+    color: white;
+}
+
+body::-webkit-scrollbar {
+    width: 0rem;
+}
